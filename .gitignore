@@ -29,3 +29,4 @@ test_COVIDx2.txt
 train_COVIDx2.txt
 eval_ensemble.py
 train_split_v3.txt
+.env/
