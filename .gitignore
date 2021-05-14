@@ -30,3 +30,6 @@ train_COVIDx2.txt
 eval_ensemble.py
 train_split_v3.txt
 .env/
+datasets/
+manifest-1610656454899/
+ricord_images/
